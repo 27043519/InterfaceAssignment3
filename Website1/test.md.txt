@@ -1,0 +1,16 @@
+Test Questions
+Tester: Lewis Evans
+
+Questions:
+1. Does the website use responsive design on 3 sizes? (computer, tablet, mobile)
+2. Does the website use accurate colours from the supplied mood board and hi-fi wireframes?
+3. Does the website use the same images as shown in the low-fi and hi-fi wireframes
+4. Do the images load properly on the website and in the code?
+5. Is everything user friendly, is everything clear and easy to use? 
+
+Answers:
+1. Yes, the website can accomodate all 3 sizes and everything resizes to fit the size
+2. Yes, the low-fi pages use the same colors the low-fi wireframes use the same grays and blacks and the hi-fi page uses the same navy blue and dark blue colors as in the hi-fi wireframe
+3. Yes, there are only images in the low-fi wireframes but they are also used in the website
+4. Yes, the images low as soon as the page does and none fail to load portions of the image
+5. Yes, the pages are laid out well and clearly with nothing covering up anything else and it is easy to navigate
